@@ -1,0 +1,3 @@
+vermelho: rgb(186, 18, 21)
+preto: rgb(18, 18, 18)
+white: #fff
